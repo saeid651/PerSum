@@ -1,1 +1,3 @@
-# PerSum
+# Novel Systems for Document Summarization in Persian [PerSum](https://arxiv.org/abs/1606.03143)
+
+We explore the problem of document summarization in Persian language from two distinct angles. In our first approach, we modify a popular and widely cited Persian document summarization framework to see how it works on a realistic corpus of news articles. Human evaluation on generated summaries shows that graph-based methods perform better than the modified systems. We carry this intuition forward in our second approach, and probe deeper into the nature of graph-based systems by designing several summarizers based on centrality measures. Ad hoc evaluation using ROUGE score on these summarizers suggests that there is a small class of centrality measures that perform better than three strong unsupervised baselines.
